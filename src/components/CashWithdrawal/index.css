@@ -1,0 +1,68 @@
+/* Write your CSS here */
+.inner-bg {
+  background-color: #150b3e;
+  border-radius: 10px;
+  padding: 40px;
+  font-family: 'Roboto';
+  width: 500px;
+}
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.icon {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  border-radius: 60px;
+  padding: 25px;
+  padding-right: 30px;
+  padding-left: 30px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+.name-card {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.head {
+  color: #d4d2db;
+  font-weight: normal;
+  font-size: 23px;
+}
+.balance-card {
+  display: flex;
+  justify-content: space-between;
+}
+.balance {
+  color: #382f5a;
+  font-weight: bold;
+  font-size: 20px;
+  padding-top: 13px;
+}
+.mny {
+  color: white;
+  font-weight: normal;
+}
+
+.rp {
+  color: #382f5a;
+  font-size: 13px;
+  font-weight: bold;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.cl {
+  color: white;
+  font-weight: normal;
+}
+.clo {
+  color: #382f5a;
+  font-weight: bold;
+}
